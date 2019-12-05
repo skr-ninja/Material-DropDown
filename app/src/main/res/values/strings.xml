@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dropdown(Spinner)Demo</string>
+    <string name="hint_text">Enter Here</string>
+</resources>
